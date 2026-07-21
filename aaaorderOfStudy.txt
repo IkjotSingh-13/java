@@ -1,0 +1,19 @@
+variables
+user input
+arithmetic
+ifStatement
+random
+math
+printf
+stringMethods
+ternary
+enhancedSwitches
+// loops were skipped same syntax as c very basic visit chat gpt if needed
+method (includes overloadmethod)
+variableScope
+array
+varargs
+oop
+constructors
+overLoadedConstructor
+arrayOfObjects
