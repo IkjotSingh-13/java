@@ -5,7 +5,7 @@ public class stringMethod {
 
         int length = name.length();
         char letter = name.charAt(0);
-        int index = name.indexOf("i");   // this is case sensitive  also returns -1 if char is absent 
+        int index = name.indexOf("z");   // this is case sensitive  also returns -1 if char is absent 
         int lastIndex= name.lastIndexOf("n");  // indexOf gives first occurance and lastIndexOf gives the last occurance
 
         System.out.println(length);
