@@ -52,3 +52,29 @@ public class stringMethod {
 
     }
 }
+
+// Remember that String is immutable. Every method like replace(), toUpperCase(), or substring() returns a new String instead of modifying the original.
+
+// | Method        | Syntax                  | Common Use            |
+// | ------------- | ----------------------- | --------------------- |
+// | Length        | `s.length()`            | Size of string        |
+// | Character     | `s.charAt(i)`           | Access character      |
+// | Substring     | `s.substring(a, b)`     | Extract part          |
+// | Equals        | `s.equals(str)`         | Compare strings       |
+// | Contains      | `s.contains("abc")`     | Check substring       |
+// | Starts With   | `s.startsWith("ab")`    | Prefix check          |
+// | Ends With     | `s.endsWith("ab")`      | Suffix check          |
+// | Index Of      | `s.indexOf('a')`        | First occurrence      |
+// | Last Index Of | `s.lastIndexOf('a')`    | Last occurrence       |
+// | Replace       | `s.replace('a','b')`    | Replace text          |
+// | Split         | `s.split(",")`          | Tokenize string       |
+// | Upper Case    | `s.toUpperCase()`       | Convert case          |
+// | Lower Case    | `s.toLowerCase()`       | Convert case          |
+// | Trim          | `s.trim()`              | Remove outer spaces   |
+// | To Char Array | `s.toCharArray()`       | Iterate efficiently   |
+// | Is Empty      | `s.isEmpty()`           | Check empty string    |
+// | Is Blank      | `s.isBlank()`           | Check only whitespace |
+// | Value Of      | `String.valueOf(x)`     | Convert to string     |
+// | Join          | `String.join("-", arr)` | Combine strings       |
+// | Repeat        | `"*".repeat(n)`         | Repeat pattern        |
+
